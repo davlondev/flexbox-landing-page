@@ -7,7 +7,7 @@ body {
 }
 
 * {
-    outlinea: 1px solid red;
+    ioutline: 1px solid red;
 }
 
 .container {
@@ -88,4 +88,31 @@ body {
 
 #second-section img {
     border-radius: 10%;
+}
+
+#third-section {
+    height: 280px;
+    background-color: darkgray;
+    justify-content: center;
+    align-items: center;
+}
+
+#third-section-inner {
+    flex-direction: column;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+#third-section-inner .item {
+    font-size: x-large;
+    font-style: italic;
+    color: rgb(50, 50, 50);
+}
+
+#quote-author {
+justify-content: right;
 }
