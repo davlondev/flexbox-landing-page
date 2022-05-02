@@ -121,3 +121,15 @@ body {
     text-align: right;
     font-weight: 600;
 }
+
+#footer-section-inner {
+    /*outline: 2px solid blue;*/
+    justify-content: center;
+    align-items: center;
+}
+
+#footer-text {
+    padding-top: 4px;
+    color: white;
+    font-size: small;
+}
