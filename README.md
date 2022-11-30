@@ -3,4 +3,4 @@ landing page prototype using flexboxes
 
 Preview link:
 
-https://candyslug.github.io/flexbox-landing-page/index.html
+https://davlondev.github.io/flexbox-landing-page/index.html
